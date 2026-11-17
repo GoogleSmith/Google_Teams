@@ -1,0 +1,6 @@
+{
+  "name": "NovaWorks Project CRM",
+  "description": "Role-based AI meeting-to-project management CRM for NovaWorks Technologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
